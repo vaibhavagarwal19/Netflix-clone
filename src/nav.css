@@ -2,6 +2,7 @@
     position: fixed;
     width: 200px;
     object-fit: contain;
+    cursor: pointer;
  
 }
 .nav-avatar{
@@ -9,6 +10,7 @@
     right: 20px;
     width: 50px;
     object-fit: contain;
+    cursor: pointer;
 
 }
 .nav{
